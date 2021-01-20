@@ -18,6 +18,42 @@ h1 {
   margin-bottom: 10px;
 }
 
+.linkedinLogo,
+.githubLogo {
+  width: 300px;
+  height: 300px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.redpanda0{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 300px;
+  height: 200px
+
+}
+
+.redpanda1 {
+  width: 300px;
+  height: 200px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.redpanda2 {
+  width: 300px;
+  height: 200px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.redpanda3 {
+  width: 300px;
+  height: 300px;
+  margin: 10px;
+}
 
 .footer {
   clear: both;
@@ -31,4 +67,17 @@ h1 {
   padding-top: 15px;
 }
 
-/* need to add @main for phones for about me image */
+@media only screen and (min-width: 600px){
+  .linkedinLogo,
+  .githubLogo {
+    width: 200px;
+    height: 200px;
+  }
+} 
+
+@media only screen and (min-width:600px){
+  .redpanda0 {
+    width: 600px;
+    height: 400px;
+  }
+}
