@@ -1,7 +1,6 @@
 .container {
   background-color: gray;
   margin-top: 30px;
-  width: 80%;
 }
 
 .img {
@@ -19,6 +18,7 @@ h1 {
   margin-bottom: 10px;
 }
 
+
 .footer {
   clear: both;
   overflow: auto;
@@ -30,3 +30,5 @@ h1 {
   background-color: darkgrey;
   padding-top: 15px;
 }
+
+/* need to add @main for phones for about me image */
