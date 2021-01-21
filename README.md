@@ -7,3 +7,7 @@ I created this web application by first creating the three different htmls; cont
 Throughout the entirety of this project I did come across many challenges some small such as picking a nav bar to some that took me hours to figure out like making a sticky footer. This project also allowed me to work with margins and padding to the point that I understand them much better. Of course, there are still a few things a need to practice when it comes to positioning elements (relative, absolute, static).
 
 The fact that this is the first functional web application motivated me because I cannot wait to see my progress through out the course. I know that this portfolio will change a lot within the next few months. I plan to practice with more position properties so that my portfolio looks better and cleaner in the future.
+
+https://github.com/mrivera0014/du-week-2-portfolio-homework
+
+https://mrivera0014.github.io/du-week-2-portfolio-homework/
