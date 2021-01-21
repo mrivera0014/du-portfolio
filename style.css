@@ -1,6 +1,7 @@
 .container {
   background-color: gray;
   margin-top: 30px;
+  padding-bottom: 10px;
 }
 
 .img {
