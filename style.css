@@ -36,6 +36,12 @@ h1 {
 
 }
 
+p {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+  font-weight: 600;
+}
+
 .redpanda1 {
   width: 300px;
   height: 200px;
