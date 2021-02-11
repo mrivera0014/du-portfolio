@@ -1,5 +1,8 @@
+body {
+  background-color: #575C55;
+}
 .container {
-  background-color: gray;
+  background-color: #DFD5A5;
   margin-top: 30px;
   padding-bottom: 10px;
   overflow: hidden;
@@ -7,8 +10,13 @@
 
 .card {
   float: left;
-  background-color: lightgrey;
   margin: 5px;
+background-color: #2B061E;
+}
+
+.card-text,
+.card-title {
+  color: white;
 }
 
 h1 {
@@ -67,7 +75,8 @@ font-weight: bold;
   height: 60px;
   width: 100%;
   text-align: center;
-  background-color: darkgrey;
+  background-color: black;
+  color: white;
   padding-top: 15px;
 }
 
