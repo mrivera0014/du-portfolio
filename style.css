@@ -4,11 +4,12 @@
   padding-bottom: 10px;
 }
 
-.img {
-  width: 300px;
-  height: 200px;
-  margin: 10px;
+.card {
+  float: left;
+  background-color: lightgrey;
+  margin: 5px;
 }
+
 h1 {
   text-align: center;
 }
