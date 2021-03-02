@@ -8,6 +8,6 @@ Throughout the entirety of this project I did come across many challenges some s
 
 The fact that this is the first functional web application motivated me because I cannot wait to see my progress through out the course. I know that this portfolio will change a lot within the next few months. I plan to practice with more position properties so that my portfolio looks better and cleaner in the future.
 
-https://github.com/mrivera0014/du-portfolio
+https://github.com/mrivera0014/du-week-2-portfolio-homework
 
-https://mrivera0014.github.io/du-portfolio/
+https://mrivera0014.github.io/du-week-2-portfolio-homework/
