@@ -54,7 +54,8 @@ p,
 }
 
 .ISSImg,
-.workdayScheduler {
+.workdayScheduler,
+.eatTheBurger {
   width: 200px;
   height: 100px;
 }
