@@ -29,6 +29,10 @@ h1 {
   margin-bottom: 10px;
 }
 
+.here {
+  color: white;
+}
+
 .linkedinLogo,
 .githubLogo {
   width: 300px;
